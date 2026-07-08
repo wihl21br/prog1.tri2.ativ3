@@ -31,7 +31,7 @@
 ...
 
 ## Encapsulamento
-[link]()
+[link]
 ...
 
 ## Herança
